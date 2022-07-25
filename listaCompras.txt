@@ -10,9 +10,6 @@ Queso rallado
 Papas
 Aceite
 Tenedores
-<<<<<<< HEAD
 Azucar
 Pasillo
 Cuchara
-=======
->>>>>>> listacompras1
